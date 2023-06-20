@@ -1,0 +1,7 @@
+direccion ip privada : 192.168.18.216
+direccion ip publica : 130.250.228.48
+direccion MAC: 08:00:27:75:eb:0f
+
+es diferente a la IP publica y privada de nuestra maquina host?
+
+Si son diferentes, ya que en la maquina virtual puede cambiar por la configuracion que se haya configurado
