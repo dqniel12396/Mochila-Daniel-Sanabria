@@ -1,0 +1,7 @@
+ip VM :  127.0.0.1
+ip windows : 192.168.18.37
+mac VM :  08:00:27:35:d7:78
+mac windows : 28-39-26-57-2F-43
+
+
+si son diferentes
